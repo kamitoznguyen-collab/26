@@ -25,10 +25,10 @@
 ### 3. Nguyên nhân gốc (Root Causes)
 - **RC1 (Thiếu kiến trúc tin cậy):** AI trả lời không trích nguồn, không ngày cập nhật, không QA mẫu, không kênh báo lỗi khiến nhân viên phải tự kiểm lại thủ công.
   - *Framework:* Năm câu hỏi (Trục Tin cậy = GỐC) + ADKAR (Nghẽn chính ở Desire, đào tạo không giải quyết được).
-  - *Bằng chứng:* E1 (Case tham khảo Morgan Stanley: độ tin cậy đi trước mở rộng); E3 (Phỏng vấn/Pulse Survey tuần 1 với 5 nhân sự: "không biết bản nào mới, vẫn phải tự mở file kiểm tra").
+  - *Bằng chứng:* E1 (Case tham khảo Morgan Stanley: độ tin cậy đi trước mở rộng); E3 *(giả định, sẽ thu bằng Pulse Survey tuần 1 với 5 nhân sự)*: "không biết bản nào mới, vẫn phải tự mở file kiểm tra".
 - **RC2 (AI nằm ngoài workflow, thiếu Governance):** Chưa có bước tra cứu chính thức bằng AI trong luồng xử lý ca, thiếu Data Owner quản lý kho tri thức và thiếu Owner chịu trách nhiệm chất lượng.
   - *Framework:* Năm câu hỏi (Trục Workflow = GỐC) + Gartner-Lite (Direction ĐẠT; Readiness & Absorption THIẾU, cần pilot sửa nền trước).
-  - *Bằng chứng:* E2 (Quan sát dashboard hiện trạng chỉ đo số lần đăng nhập và số lượng câu hỏi tầng 1, không đo chất lượng).
+  - *Bằng chứng:* E2 *(giả định, sẽ thu từ log dashboard hiện trạng ở tuần 1)*: hiện chỉ đo số lần đăng nhập và số lượng câu hỏi tầng 1, không đo chất lượng.
 
 ---
 
